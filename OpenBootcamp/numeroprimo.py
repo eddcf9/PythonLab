@@ -6,4 +6,4 @@ def isPrimo(numero):
     print("Es primo")
     return True
 
-isPrimo(8)
+isPrimo(3)
