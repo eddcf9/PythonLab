@@ -2,10 +2,10 @@
 
 Repositorio de ejercicios hechos con Python 
 
-# Como usar?
+# How to use?
 1. To clone the repository using HTTPS, under "HTTPS", click "copy".
 
-![ScreenShot] (PythonLab/OpenBootcamp/images/captura.png)
+![ScreenShot](https://github.com/eddcf9/PythonLab/blob/master/OpenBootcamp/images/captura.png)
 
 2. Open Terminal.
 
