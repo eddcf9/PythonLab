@@ -3,17 +3,16 @@
 Repositorio de ejercicios hechos con Python 
 
 # Como usar?
-1. Para clonar el repositorio utilizando HTTPS, debajo de "HTTPS", haz clic en "copiar".
+1. To clone the repository using HTTPS, under "HTTPS", click "copy".
 
-![ScreenShot] (/images/captura.png)
+![ScreenShot] (/OpenBootcamp/images/captura.png)
 
-2. Abre la Terminal.
+2. Open Terminal.
 
-3. Cambia el directorio de trabajo actual a la ubicación en donde quieres clonar el directorio.
+3. Change the current working directory to the location where you want to clone the directory.
 
-4. Escribe git clone, y luego pega la URL que copiaste antes.
+4. Type `git clone`, and then paste the URL you copied earlier.
 
 ```
 $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
-
 ```
