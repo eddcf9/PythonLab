@@ -1,3 +1,5 @@
-#Repositorio de ejercicios hechos con Python
+##PythonLab
 
-NOTA: Para ejecutar bases de datos requiere "SQLITE3" y editar el codigo dependiendo la DB del usuario
+Repositorio de ejercicios hechos con Python 
+
+
